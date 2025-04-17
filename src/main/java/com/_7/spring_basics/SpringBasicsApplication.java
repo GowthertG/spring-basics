@@ -22,7 +22,6 @@ public class SpringBasicsApplication {
         LifecycleService service = context.getBean(LifecycleService.class);
         service.doSomething();
 
-        // Properly close the context to trigger @PreDestroy
        context.getBeanFactory().destroyBean(service);
 
         // context.close();
