@@ -1,0 +1,8 @@
+/goinfre/hhaddouc/s/src/main/java/com/_7/spring_basics/SpringBasicsApplication.java
+/goinfre/hhaddouc/s/src/main/java/com/_7/spring_basics/config/AppConfig.java
+/goinfre/hhaddouc/s/src/main/java/com/_7/spring_basics/controller/MyController.java
+/goinfre/hhaddouc/s/src/main/java/com/_7/spring_basics/scope/PrototypeBean.java
+/goinfre/hhaddouc/s/src/main/java/com/_7/spring_basics/scope/SingletonBean.java
+/goinfre/hhaddouc/s/src/main/java/com/_7/spring_basics/service/ConstructorService.java
+/goinfre/hhaddouc/s/src/main/java/com/_7/spring_basics/service/LifecycleService.java
+/goinfre/hhaddouc/s/src/main/java/com/_7/spring_basics/service/SetterService.java
